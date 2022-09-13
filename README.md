@@ -1,2 +1,2 @@
-# EXTRACCT-TRANSFORM-AND-LOAD
+# EXTRACT-TRANSFORM-AND-LOAD
 This is a mock project on extract transform and load
